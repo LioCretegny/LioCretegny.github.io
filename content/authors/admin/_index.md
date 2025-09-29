@@ -49,9 +49,7 @@ education:
     date_end: 2004-10-30
     summary: |
       Analyse du cycle de vie des cellules solaires Graetzel
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    
   - area: Master de Biologie
     institution: Université de Genève - Jardins Botanique de Genève
     date_start: 1998-10-01
