@@ -101,29 +101,29 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Compétences
     items:
       - name: Python
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: Windows & Linux
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: MS Office
         description: ''
-        percent: 40
+        percent: 80
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Photographie & Astrophotographie
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+      - name: Design & Impression 3D
         description: ''
         percent: 100
         icon: cat
@@ -133,12 +133,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Français
     percent: 100
-  - name: Chinese
+  - name: Anglais
+    percent: 80
+  - name: Allemand
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
