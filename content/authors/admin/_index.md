@@ -47,15 +47,13 @@ education:
     institution: EPFL
     date_start: 2003-10-01
     date_end: 2004-10-30
-    summary: |
-      Analyse du cycle de vie des cellules solaires Graetzel
+    summary: Analyse du cycle de vie des cellules solaires Graetzel
     
   - area: Master de Biologie
     institution: Université de Genève - Jardins Botanique de Genève
     date_start: 1998-10-01
     date_end: 2000-07-31
-    summary: |
-        Analyse et plan de gesion des réserves naturelles du canton de Genève
+    summary: Analyse et plan de gesion des réserves naturelles du canton de Genève
       GPA: 5.5/6.0
     
   - area: Bachelor Biologie
