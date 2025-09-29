@@ -46,7 +46,7 @@ education:
   - area: Master avancé en ingenierue de l'environnement
     institution: EPFL
     date_start: 2003-10-01
-    date_end: 2004-10-31
+    date_end: 2004-10-30
     summary: |
       Analyse du cycle de vie des cellules solaires Graetzel
     button:
