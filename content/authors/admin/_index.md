@@ -14,7 +14,7 @@ pronouns:
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: lion
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lionel@cretegny.net'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/BuildLore
@@ -45,35 +45,27 @@ profiles:
 education:
   - area: Master avancé en ingenierue de l'environnement
     institution: EPFL
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2003-10-01
+    date_end: 2004-10-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Analyse du cycle de vie des cellules solaires Graetzel
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master de Biologie
+    institution: Université de Genève - Jardins Botanique de Genève
+    date_start: 1998-10-01
+    date_end: 2000-07-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+        Analyse et plan de gesion des réserves naturelles du canton de Genève
+      GPA: 5.5/6.0
+    
+  - area: Bachelor Biologie
+    institution: Université de Genève
+    date_start: 1995-10-01
+    date_end: 1998-09-31
     summary: |
-      GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
