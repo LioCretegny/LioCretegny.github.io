@@ -14,13 +14,13 @@ pronouns:
 
 # Status emoji
 status:
-  icon: lion
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Biologist
+role: Biologiste
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -71,9 +71,8 @@ work:
     summary: |2-
       Responsibilities include:
       - Organisation du planning annuel et du budget
-      - publication annuelle de 25 tests
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+      - publication annuelle de 25 test
+  - position: Ofev
     company_name: X
     company_url: ''
     company_logo: ''
