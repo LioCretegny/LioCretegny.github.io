@@ -37,7 +37,7 @@ header:
     align: "center"
     # Fix the navigation bar to the top of the page
     fixed_to_top: true
-    block: floating-theme-toggler
+    
 
 # Site footer
 footer:
