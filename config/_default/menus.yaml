@@ -7,9 +7,16 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Blog
-    url: blog/
+  - name: Cretegny.net
+    url: https://cretegny.net/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Photoastro.ch
+    url: https://photoastro.ch/
     weight: 30
+  - name: photo4x5.ch
+    url: https://photo4x5.ch/
+    weight: 30
+  - name: fixfab.ch
+    url: https://fixfab.ch/
+    weight: 30
+    
