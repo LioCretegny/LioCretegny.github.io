@@ -52,13 +52,13 @@ education:
   - area: Master de Biologie
     institution: Université de Genève - Jardins Botanique de Genève
     date_start: 1998-10-01
-    date_end: 2000-07-31
+    date_end: 2000-07-01
     summary: Analyse et plan de gesion des réserves naturelles du canton de Genève
     
   - area: Bachelor Biologie
     institution: Université de Genève
     date_start: 1995-10-01
-    date_end: 1998-09-31
+    date_end: 1998-09-01
     summary:
 
 work:
