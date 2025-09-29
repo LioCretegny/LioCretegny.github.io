@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Biologiste
+role: Biologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
