@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Lionel Cretegny
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lionel
+last_name: Cretegny
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns:
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Biologiste
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Fédération romande des consommateurs
+    url: https://www.frc.ch/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,8 +43,8 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Master avancé en ingenierue de l'environnement
+    institution: EPFL
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
