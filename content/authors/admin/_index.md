@@ -54,25 +54,24 @@ education:
     date_start: 1998-10-01
     date_end: 2000-07-31
     summary: Analyse et plan de gesion des réserves naturelles du canton de Genève
-      GPA: 5.5/6.0
     
   - area: Bachelor Biologie
     institution: Université de Genève
     date_start: 1995-10-01
     date_end: 1998-09-31
-    summary: |
+    summary:
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Responsable des tests comparatifs
+    company_name: Fédération romande des consommateurs
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2013-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Organisation du planning annuel et du budget
+      - publication annuelle de 25 tests
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
