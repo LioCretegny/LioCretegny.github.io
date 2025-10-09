@@ -59,7 +59,7 @@ education:
     institution: Université de Genève
     date_start: 1995-10-01
     date_end: 1998-09-01
-    summary:
+    summary: parcours normal
 
 work:
   - position: Responsable des tests comparatifs
@@ -68,10 +68,11 @@ work:
     company_logo: ''
     date_start: 2013-07-01
     date_end: En poste
-    summary:
+    summary: Publier chaque année plus de 30 tests comparatifs dans les médias de l'association
        Responsibilities include:
       - Organisation du planning annuel et du budget
-      - publication annuelle de 25 test
+      - Connaissances des ordonnances des objets usuels, alimentaires et cosmétiques
+      - Techniques d'analyses de laboratoire
       - Rédaction et vulgarisation
   - position: Collaborateur scientifique
     company_name: Office fédéral de l'Environnement (OFEV)
