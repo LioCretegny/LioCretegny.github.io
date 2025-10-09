@@ -67,7 +67,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2013-07-01
-    date_end: En poste
+    date_end: 
     summary: |
       - Responsibilities include:
       - Organisation du planning annuel et du budget
