@@ -68,7 +68,7 @@ work:
     company_logo: ''
     date_start: 2013-07-01
     date_end: En poste
-    summary: Publier chaque année plus de 30 tests comparatifs dans les médias de l'association
+    summary: Publier 
        Responsibilities include:
       - Organisation du planning annuel et du budget
       - Connaissances des ordonnances des objets usuels, alimentaires et cosmétiques
