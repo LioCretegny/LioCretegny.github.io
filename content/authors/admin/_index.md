@@ -68,8 +68,8 @@ work:
     company_logo: ''
     date_start: 2013-07-01
     date_end: En poste
-    summary: |2-
-      Tâches:
+    summary:
+       Responsibilities include:
       - Organisation du planning annuel et du budget
       - publication annuelle de 25 test
       - Rédaction et vulgarisation
@@ -79,7 +79,7 @@ work:
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary:
       Responsibilities include:
       - Mise en oeuvre de l'ordonnance sur les biocarburants
       - Ecobilans des biocarburants
