@@ -68,8 +68,8 @@ work:
     company_logo: ''
     date_start: 2013-07-01
     date_end: En poste
-    summary: Publier 
-       Responsibilities include:
+    summary: |
+      - Responsibilities include:
       - Organisation du planning annuel et du budget
       - Connaissances des ordonnances des objets usuels, alimentaires et cosmétiques
       - Techniques d'analyses de laboratoire
@@ -80,7 +80,7 @@ work:
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary:
+    summary:|
       Responsibilities include:
       - Mise en oeuvre de l'ordonnance sur les biocarburants
       - Ecobilans des biocarburants
